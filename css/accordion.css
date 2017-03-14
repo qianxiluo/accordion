@@ -1,0 +1,28 @@
+/*
+* @Author: Administrator
+* @Date:   2017-03-14 21:02:26
+* @Last Modified by:   Administrator
+* @Last Modified time: 2017-03-14 21:03:53
+*/
+*{
+	margin: 0;
+	padding: 0;
+}
+ul{
+	list-style: none;
+}
+div{
+	width: 1150px;
+	height: 400px;
+	margin: 100px auto;
+	border: 1px solid orange;
+	overflow: hidden;
+}
+div li{
+	width: 240px;
+	height: 400px;
+	float: left;
+}
+div ul{
+	width: 1300px;
+}
